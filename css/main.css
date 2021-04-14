@@ -1,0 +1,48 @@
+a.default
+{
+    text-decoration: none; 
+    /* border-width: 1px; border-style: solid;*/
+    padding-left: 2px; padding-right: 5px;
+    font-size: 16px;
+}
+img.icon
+{
+    height: 18px;
+    /* border-width: 1px; border-style: solid;*/
+    position: relative; top:4px; right:-4px;
+}
+
+h2.default
+{
+    margin: 2px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+}
+h3.default
+{
+    margin: 2px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+}
+
+th.default
+{
+    padding-left: 4px;
+    padding-right: 4px;
+}
+
+table.default
+{
+    text-decoration: none;
+}
+hr
+{
+    
+    border-color: white;
+    border-top: dashed;
+    border-top-width:  1px;
+    border-top-color: gray;
+    height: 0px;
+    color: white;
+    background-color: white;
+}
